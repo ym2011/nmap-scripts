@@ -1,7 +1,7 @@
 # official site  
-https://github.com/scipag/vulscan
+vulscan: https://github.com/scipag/vulscan
 
-https://www.computec.ch/projekte/vulscan/?s=download
+vulnerability database : https://www.computec.ch/projekte/vulscan/?s=download
 
 
 INSTALLATION
